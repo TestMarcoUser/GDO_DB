@@ -12,5 +12,6 @@ DATABASE_URL = "mysql+pymysql://username:password@localhost/GDO_DB"
 Vanno Sostituite:
 
 Ho utilizzato valori generici sul DB locale.
+
 username con il nome utente di MySQL.
 password con la tua password di MySQL.
